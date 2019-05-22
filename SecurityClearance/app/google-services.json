@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724599384989",
+    "firebase_url": "https://securityclearance-55e9c.firebaseio.com",
+    "project_id": "securityclearance-55e9c",
+    "storage_bucket": "securityclearance-55e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724599384989:android:ff11c074764097a7",
+        "android_client_info": {
+          "package_name": "com.example.securityclearance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724599384989-la8rj7dlfofa3v8ja9tdqm211dif1lqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9hZG1KKgYHRQKJCDbkRRVktx2JUJFQo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724599384989-la8rj7dlfofa3v8ja9tdqm211dif1lqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
